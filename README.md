@@ -1,2 +1,2 @@
 # portfolio
-Somme application with python, django 
+Some application with python, django 
